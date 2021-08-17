@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: grey;
+    width: 100vw; 
+    height: 15vh;
+}
+
+#blue-box {
+    margin: 15px;
+    background-color: rgb(87, 196, 233);
+    height: 100px;
+    width: 100px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#first {
+    background-color: blue;
+    width: 100vw; 
+    height: 15vh;
+}
+
+#second {
+    background-color: lightblue;
+    width: 100vw; 
+    height: 15vh;
+}
+
+#third {
+    background-color: rgb(210, 197, 140);
+    width: 100vw; 
+    height: 15vh;
+}
+
+#fourth {
+    background-color: yellow;
+    width: 100vw; 
+    height: 15vh;
+}
